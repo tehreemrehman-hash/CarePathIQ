@@ -1,4 +1,4 @@
-(voice: Olivia)
+(voice: Beverly)
 
 ## Lesson 2: Explainable AI (XAI) for Trustworthy Systems
 

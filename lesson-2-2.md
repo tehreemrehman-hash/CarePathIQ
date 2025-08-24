@@ -1,4 +1,4 @@
-(voice: Olivia)
+(voice: Beverly)
 
 ## Lesson 2: The AHRQ Approach to Grading Evidence
 

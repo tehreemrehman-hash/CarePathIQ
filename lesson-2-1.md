@@ -1,4 +1,4 @@
-(voice: Olivia)
+(voice: Beverly)
 
 ## Lesson 1: The GRADE Framework for Evaluating Evidence
 

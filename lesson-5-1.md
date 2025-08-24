@@ -1,4 +1,4 @@
-(voice: Olivia)
+(voice: Beverly)
 
 ## Lesson 1: Pathway Implementation with the DMAIC Model
 

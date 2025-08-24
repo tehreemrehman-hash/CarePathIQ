@@ -1,4 +1,4 @@
-(voice: Olivia)
+(voice: Beverly)
 
 ## Lesson 3: Workflow Re-engineering: Designing for Usability
 

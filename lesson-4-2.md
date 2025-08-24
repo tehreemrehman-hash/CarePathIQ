@@ -1,4 +1,4 @@
-(voice: Olivia)
+(voice: Beverly)
 
 ## Lesson 2: Workflow Analysis: Understanding the Current State
 
