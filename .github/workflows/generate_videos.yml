@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-1-1.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-1-2.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-1-3.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -40,7 +40,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-1-4.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -50,7 +50,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-2-1.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -60,7 +60,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-2-2.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -70,7 +70,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-2-3.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -80,7 +80,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-2-4.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -90,7 +90,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-3-1.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -100,7 +100,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-3-2.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -110,7 +110,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-3-3.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -120,7 +120,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-4-1.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -130,7 +130,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-4-2.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -140,7 +140,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-4-3.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -150,7 +150,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-5-1.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -160,7 +160,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-5-2.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
@@ -170,7 +170,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: narakeet/build-video-github-action@v2
+      - uses: narakeet/build-video-github-action@v3
         with:
           source-path: lesson-5-3.md
           api-key: ${{ secrets.NARAKEET_API_KEY }}
