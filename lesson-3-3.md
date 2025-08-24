@@ -1,5 +1,4 @@
-(voice: Madison)
-(visuals: suggest)
+(voice: Olivia)
 
 ## Lesson 3: Using AI to Uncover and Address Bias
 

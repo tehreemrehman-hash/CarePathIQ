@@ -1,5 +1,4 @@
-(voice: Madison)
-(visuals: suggest)
+(voice: Olivia)
 
 ## Lesson 1: Introduction to Human Factors Engineering
 

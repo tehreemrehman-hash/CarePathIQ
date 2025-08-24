@@ -1,5 +1,4 @@
-(voice: Madison)
-(visuals: suggest)
+(voice: Olivia)
 
 ## Lesson 3: The Core Domains: Treatment
 

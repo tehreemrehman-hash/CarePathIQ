@@ -1,5 +1,4 @@
-(voice: Madison)
-(visuals: suggest)
+(voice: Olivia)
 
 ## Lesson 4: The Core Domains: Disposition
 
