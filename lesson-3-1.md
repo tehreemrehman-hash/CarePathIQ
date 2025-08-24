@@ -1,14 +1,18 @@
 (voice: Beverly)
 
+(voice-volume: silent)
 ## Lesson 1: Mitigating Cognitive Bias with Decision Science
 
 **(Intro Music Fades)**
+(voice-volume: normal)
 
 **Narrator:** "Welcome to Module 3. We've established that clinical pathways need to be built on a foundation of high-quality evidence. But even with the best evidence in hand, the process of clinical decision-making is profoundly human, and therefore, susceptible to a range of cognitive biases.
 
 "This module is dedicated to 'Decision Science & Transparent AI.' In this first lesson, we will explore how we can use the principles of decision science to recognize and mitigate the cognitive biases that can lead to diagnostic errors and health inequities."
 
+(voice-volume: silent)
 **(Transition Slide: Common Biases)**
+(voice-volume: normal)
 
 **Narrator:** "Cognitive biases are systematic patterns of thinking that can lead us to make irrational judgments. In medicine, they can be particularly dangerous. Let's consider a few common examples:
 *   **Anchoring Bias:** This is the tendency to rely too heavily on the first piece of information offered. For example, a clinician might "anchor" on an early, incorrect diagnosis, leading them to ignore subsequent information that points in a different direction.
@@ -17,7 +21,9 @@
 
 "These biases can affect anyone, regardless of their level of experience, and they can disproportionately harm patients from marginalized groups."
 
+(voice-volume: silent)
 **(Transition Slide: Pathways as Cognitive De-biasing Tools)**
+(voice-volume: normal)
 
 **Narrator:** "So, how do we combat this? This is where decision science comes in. One of the most powerful strategies is to use structured decision-making tools. And that is exactly what a clinical pathway is.
 
@@ -26,10 +32,14 @@
 *   **They require objective data:** A pathway might require the calculation of a validated risk score before a certain decision can be made, forcing a reliance on objective data over subjective intuition.
 *   **They introduce 'speed bumps' for the brain:** They create structured moments for reflection, prompting us to consider a differential diagnosis or to re-evaluate our initial assessment."
 
+(voice-volume: silent)
 **(Transition Slide)**
+(voice-volume: normal)
 
 **Narrator:** "It is crucial to understand that the goal is not to eliminate clinical intuition, which is a valuable asset. The goal is to create a system of 'checks and balances' that helps us recognize when our intuition might be leading us astray. By embedding principles of decision science into our clinical pathways, we can create a more reliable and equitable decision-making process for every patient.
 
 "In our next lesson, we will explore how transparent artificial intelligence can serve as a powerful partner in this process. Thank you."
 
+(voice-volume: silent)
 **(Outro Music Fades In)**
+(voice-volume: normal)
